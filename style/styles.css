@@ -77,7 +77,8 @@ section{
 }
 
 #letsTalk{
-    background: url("../media/img/LetsTalk.JPG") no-repeat center center/cover;
+    background-color: #4B0082;
+    /*background: url("../media/img/LetsTalk.JPG") no-repeat center center/cover;*/
 }
 
 .article-text h1{
