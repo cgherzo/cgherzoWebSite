@@ -21,7 +21,7 @@
 .navbar{
     display: flex;
     justify-content: space-around;
-    background-color: #BA55D3;
+    background-color: #4B0082;
 }
 
 .nav-main{
@@ -68,15 +68,15 @@ section{
     height: 100vh;
 }
 
-#section01{
+#hello{
     background: url("../media/img/Hello.jpg") no-repeat center center/cover;
 }
 
-#section02{
+#aboutMe{
     background: url("../media/img/AboutMe.JPG") no-repeat center center/cover;
 }
 
-#section03{
+#letsTalk{
     background: url("../media/img/LetsTalk.JPG") no-repeat center center/cover;
 }
 
