@@ -77,14 +77,15 @@ section{
 }
 
 #letsTalk{
-    background-color: #4B0082;
     background: url("../media/img/LetsTalk.JPG") no-repeat center center/cover;
 }
 
 .article-text h1{
     font-family: "Roboto-Medium";
+    font-size: 20px;
 }
 
 .article-text p{
     font-family: "Roboto-Light";
+    font-size: 16px;
 }
