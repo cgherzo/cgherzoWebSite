@@ -31,7 +31,6 @@
  
 ul.nav-main{
     list-style: none;
-    
 }
 
 .nav-elem{
@@ -81,11 +80,15 @@ section{
 }
 
 .article-text h1{
-    font-family: "Roboto-Medium";
-    font-size: 20px;
+    font-family: "Roboto-Black";
+    font-size: 30px;
+    color: #FFF8DC;
 }
 
 .article-text p{
-    font-family: "Roboto-Light";
+    font-family: "Roboto-Medium";
     font-size: 16px;
+    padding: 0px 100px;
+    margin: 0px 100px;
+    color: #FFF8DC;
 }
