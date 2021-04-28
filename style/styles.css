@@ -18,6 +18,17 @@
     src: url("../media/font/Roboto-Light.ttf");
 }
 
+#socialMediaLinks{
+
+    list-style-type: none;
+    text-decoration: none;
+}
+
+#socialMediaLinks > a{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
 .navbar{
     display: flex;
     justify-content: space-around;
@@ -71,30 +82,11 @@ section{
     background: url("../media/img/Hello.jpg") no-repeat center center/cover;
 }
 
-#aboutMe{
-    background: url("../media/img/AboutMe.JPG") no-repeat center center/cover;
-}
-
-#letsTalk{
-    background: url("../media/img/LetsTalk.JPG") no-repeat center center/cover;
-}
-
-h1{
-    font-family: "Roboto-Black";
-    font-size: 30px;
-}
-
-p{
-    font-family: "Roboto-Medium";
-    font-size: 16px;
-    /* padding: 0px 100px;
-    margin: 0px 100px; */
-}
 
 .article-text{
     position: absolute;
     left: 50%;
-    font-size: 50px;
+    font-size: 30px;
     color: #FFF8DC;
     transform: translate(-50%,-50%);
     -ms-transform: translate(-50%,-50%);
