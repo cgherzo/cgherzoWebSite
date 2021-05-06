@@ -7,31 +7,41 @@
 /*media query - Device: Desktop*/
 /* Screeen > 1281px to higher */
 @media(min-width: 1281px){
-
+    #hello{
+        background: url("../media/img/Hello.jpg") no-repeat center center/cover;
+    }
 }
 
 /*media query - Device: Desktop*/
 /* Screeen between 1025px and 1281px */
 @media(min-width: 1025px) and (max-width: 1281px){
-
+    #hello{
+        background: url("../media/img/Hello.jpg") no-repeat center center/cover;
+    }
 }
 
 /*media query - Device: Tablets (Landscape)*/
 /* Screeen between 768px to 1024px */
 @media(min-width: 768px) and (max-width: 1024px) and (orientation: landscape){
-
+    #hello{
+        background: url("../media/img/Hello.jpg") no-repeat center center/cover;
+    }
 }
 
 /*media query - Device: Tablets (Low Resolution), Mobiles*/
 /* Screeen between 481px to 767px */
 @media(min-width: 481px) and (max-width: 767px){
-
+    #hello{
+        background: url("../media/img/Hello.jpg") no-repeat center center/cover;
+    }
 }
 
 /*media query - Device: Mobile*/
 /* Screeen between 320px to 480px */
 @media(min-width: 320px) and (max-width: 480px){
-
+    #hello{
+        background: url("../media/img/Hello.jpg") no-repeat center center/cover;
+    }
 }
 
 
